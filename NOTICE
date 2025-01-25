@@ -1,0 +1,15 @@
+# NOTICE
+
+This project is based on the **Unity ML-Agents** repository by **Unity Technologies**, which is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). The original code has been modified to support:
+
+1. Drone simulation.
+2. Enhanced AI behavior and person detection capabilities.
+
+---
+
+## Modifications
+
+- Integration of drone physics and behavior simulation.
+- Custom scripts and assets to enable dynamic navigation and task execution.
+
+The original Apache License 2.0 and its conditions must be adhered to for any further usage or distribution of this project. This NOTICE file serves to highlight the changes and attributions in compliance with the Apache License.

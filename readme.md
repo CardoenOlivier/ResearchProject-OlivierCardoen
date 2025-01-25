@@ -77,6 +77,7 @@ The structure looks as the following:
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+Please also read the NOTICE file for further explenation.
 
 ---
 
