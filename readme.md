@@ -46,16 +46,18 @@ For detailed instructions on setting up the project and using the simulation:
 
 ## Project Structure
 
-```
-
 The important files in this project are all located in the `/Project` folder. 
 To use the lastest project version, navigate to the following directory:
 
+```
 ├── Assets/
     ├── ML-Agents/ 
         ├── Drone-NoTimer/
+```
 
 The structure looks as the following:
+
+```
 
 ├── Models/               # Pre-trained AI models and configurations
 ├── Prefabs/              # Environments made to be copied to accelerate training. Or to be used as demo purposes
